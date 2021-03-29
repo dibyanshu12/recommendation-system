@@ -1,2 +1,2 @@
 # recommendation-system
-recommendation system using boltzmann machine
+in this project i have created movie recommendation system using Restricted Boltzmann Machine with an accuracy of 80%
